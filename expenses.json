@@ -1,0 +1,20 @@
+[
+    {
+        "title": "bus ticket",
+        "amount": 5000.0,
+        "category": "transport",
+        "date": "2026-06-07"
+    },
+    {
+        "title": "buying clothes",
+        "amount": 20000.0,
+        "category": "shopping",
+        "date": "2026-06-07"
+    },
+    {
+        "title": "coffee",
+        "amount": 50.0,
+        "category": "food",
+        "date": "2026-06-07"
+    }
+]
