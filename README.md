@@ -10,3 +10,7 @@ Expense Tracker is a Python-based application that helps users record, manage, a
 
 #OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cd046e0d-15e4-46a1-853e-9be7fb34ba76" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c7fcc37-5519-43e6-aaa5-a7d979aefad9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0eeaf49c-f7b3-4da8-ba8a-da94d08b8fc4" />
+
